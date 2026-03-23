@@ -1,24 +1,54 @@
-# 📱 Inventory App (Firebase)
+# 📦 Inventory App (Firebase)
 
-## 🔥 Features
-- Add Products
-- Store in Firebase Realtime Database
-- Generate Total Bill
+A modern Android Inventory Management App built using Java and Firebase.
 
-## 🛠️ Tech Used
-- Java (Android)
-- Firebase Realtime Database
+---
 
+## 🚀 Features
+
+- Firebase Authentication
+- Add / Update / Delete Products
+- Realtime Database
+- Clean UI
+
+---
+
+## 📸 Screenshots
+
+![App Screenshot](screenshots/img1.jpeg)
+![App Screenshot](screenshots/img2.jpeg)
+![App Screenshot](screenshots/img3.jpeg)
+![App Screenshot](screenshots/img4.jpeg)
+![App Screenshot](screenshots/img5.jpeg)
+![App Screenshot](screenshots/img6.jpeg)
+
+
+---
+
+## 🛠 Tech Stack
+
+- Java
+- Firebase
+- XML
+
+---
 ## 📂 Project Structure
-- MainActivity → Home Screen
-- AddProductActivity → Add Products
-- BillActivity → Calculate Total
 
-## ▶️ How to Run
-1. Clone this repo
-2. Open in Android Studio
-3. Add your own google-services.json file
-4. Run the app
+MainActivity → Home Screen
+AddProductActivity → Add Products
+BillActivity → Calculate Total
+
+---
+
+▶️ How to Run
+
+Clone this repo
+Open in Android Studio
+Add your own google-services.json file
+Run the app
+
+---
 
 ## 👨‍💻 Developer
+
 Vraj Vaishnav
